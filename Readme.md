@@ -3,7 +3,7 @@
 ## Author Information
 **Name:** [Dhruv Choudhary]  
 **University:** [IIT GN]  
-**Department:** [Chemical Engineering]
+**Department:** [Chemical Engineering and minor CSE]
 
 ## Project Overview
 
